@@ -1,4 +1,4 @@
-# CPG-GAN-code, authors Bomin Gan et al.
+### CPG-GAN-code ###
 The core code of CPGGAN, covering core structure and computation.
 
 
