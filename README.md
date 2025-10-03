@@ -12,5 +12,6 @@ Figure2. Example of generated results.
 
 For more technical details on the CPG-GAN method, please refer to the paper "Pelvicfloorultrasounddiagnosisthroughdynamicadaptationofimage expansion:across-perceptualguidedgenerativeadversarialnetwork approach".
 
+Due to the privacy of the current research, this repository temporarily uploads some of the code of the paper, and the rest of the code is being organized. It will continue to be updated in the future, and the latest code will be gradually supplemented for reference and reproduction. Thank you for your understanding!
 
 For more questions regarding technical details, please contact the code author.
